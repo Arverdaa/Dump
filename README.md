@@ -1,0 +1,2 @@
+# Dump
+Script Termux premium
